@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   assetPrefix:'/',
-  output:'standlone',
+  output:'export',
   images:{
     domains:['assets.aceternity.com','pbs.twimg.com','avatar.vercel.sh']
   }
