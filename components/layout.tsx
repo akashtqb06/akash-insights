@@ -253,7 +253,7 @@ function Footer(){
                 </a>
               </div>
             </div>
-            <div className="grid grid-cols-3 gap-10 items-start mt-10 md:mt-0">
+            {/* <div className="grid grid-cols-3 gap-10 items-start mt-10 md:mt-0">
               <div className="flex justify-center space-y-4 flex-col mt-4">
                 <a className="transition-colors hover:text-foreground/80 text-foreground/60" href="/pricing">Pricing</a>
                 <a className="transition-colors hover:text-foreground/80 text-foreground/60" href="/components">Components</a>
@@ -270,7 +270,7 @@ function Footer(){
                 <a target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-foreground/80 text-foreground/60" href="https://pro.aceternity.com">Aceternity UI Pro</a>
                 <a target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-foreground/80 text-foreground/60" href="https://aceternity.com">Aceternity</a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       );

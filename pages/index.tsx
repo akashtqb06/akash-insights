@@ -2,6 +2,7 @@
 import React from "react";
 import { BackgroundBeams } from "../components/ui/background-beams";
 import {BentoGridThirdDemo} from "../components/bentoGrid"
+import { MarqueeDemo } from "@/components/testimonials";
 
 export default function Hero() {
   return (
@@ -29,6 +30,7 @@ export default function Hero() {
       <BackgroundBeams />
     </div>
     <BentoGridThirdDemo/>
+    <MarqueeDemo/>
     </>
   );
 }
